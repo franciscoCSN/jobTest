@@ -1,0 +1,14 @@
+package br.com.jobTest4;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "1-Tomando Ribeirão preto como referência, o carro está no KM 0." );
+        System.out.println( "e o caminhão está no KM 100." );
+    }
+}

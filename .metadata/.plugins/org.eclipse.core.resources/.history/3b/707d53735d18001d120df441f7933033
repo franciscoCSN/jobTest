@@ -1,0 +1,42 @@
+package br.com.jobTest5;
+
+import java.text.CharacterIterator;
+import java.text.StringCharacterIterator;
+import java.util.Scanner;
+import java.util.Stack;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        Scanner input = new Scanner(System.in);
+        String str = input.next();
+        Stack<Character> stack = new Stack<Character>();
+        
+        CharacterIterator chariterator = new StringCharacterIterator(str); 
+        while(chariterator.current() != CharacterIterator.DONE) {
+        	stack.push(chariterator);
+        }
+        
+        System.out.println(reverseStack(stack,stack.size()));
+        
+        
+    }
+    
+    public static Stack<Character> reverseStack(Stack<Character> x, int arrayLength) {
+	      Stack<Character> y = new Stack<Character>();
+	      System.out.println("tamanho" +arrayLength);
+	      for(int i=arrayLength - 1; i>=0; i--)
+	      {
+	    	  y.push(x.elementAt(i));
+	          
+	      }
+	      System.out.println("x:" +x);
+	      System.out.println("y:" +y);
+	      return y;
+	   }
+}

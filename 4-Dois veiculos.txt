@@ -1,0 +1,28 @@
+1-Tomando Ribeirão preto como referência, o carro está no KM 0 e o caminhão está no KM 100.
+2- Quando eles se cruzam estão no mesmo ponto da estrada. logo a mesma distancia de ribeirão preto.
+Equação horária: Vm = (S² - S¹)/(T² -T¹)
+Onde Vm = velocidade media.
+(S² - S¹) = Variação de espaço, espaço final menos espaço inicial .
+(T² -T¹) = Variação de tempo, tempo  final  menos tempo inicial.
+        
+A equação horária do caminhão é.
+T¹=0;
+logo T² = (S² - S¹)/Vm  => 100Km/80Km/h = 1,25h
+como o caminhão perde 10 minutos nos pedágios, o tempo total da viagem do caminhão
+é o tem em movimento + o tempo parado, 1,25 + 0,166(10 min) 
+então a velocidade media do caminhão é 100km/1,416h = 70,9km/h
+ T = S/Vm¹ =  (S - 100Km)/-Vm²
+ 
+ -Vm².S = Vm¹.S - Vm¹.100Km
+ 
+ Vm¹.S + Vm².S = Vm¹.100Km
+ 
+ S(Vm¹+Vm²) = Vm¹.100Km
+ 
+ S = Vm¹.100Km / (Vm¹+Vm²)
+ 
+ S = (110Km/h . 100Km) / (110km/h + 70.9Km/h)
+ S = 60,80 Km
+ 
+ Os Veiculos se cruzaram no KM  60,80
+ 

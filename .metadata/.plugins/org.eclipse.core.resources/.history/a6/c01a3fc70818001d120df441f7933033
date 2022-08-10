@@ -1,0 +1,33 @@
+package br.com.jobTest2;
+
+import java.util.Scanner;
+import java.util.Stack;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        //Questão 2
+    	System.out.println("Informe um numero inteiro.");
+    	Scanner scanner =new Scanner(System.in);
+    	int limite = scanner.nextInt();
+    	int elemento = 0;
+    	boolean continuar = true;
+    	Stack<Integer> pilha = new Stack();
+    	int i = 1;
+    	pilha.push(0);
+    	pilha.push(1);
+    	while(elemento < limite) {
+    		elemento  = pilha.elementAt(i-1) + pilha.elementAt(i);
+    		pilha.push(elemento);
+    		
+    		i++;
+    	}
+    	System.out.println(pilha);
+    	pilha.contains(limite);
+    }
+}

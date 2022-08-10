@@ -1,0 +1,676 @@
+2022-08-02 11:37:14,808 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-03 01:50:11,540 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-08-03 01:51:07,389 [Worker-13: Updating Maven Dependencies] INFO  o.e.m.c.i.p.r.ProjectRegistryRefreshJob - org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob was canceled
+2022-08-03 20:57:51,639 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-04 10:18:12,087 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-08-04 12:15:15,727 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.jar
+2022-08-04 12:15:16,016 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.jar
+2022-08-04 12:15:16,434 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.jar
+2022-08-04 12:15:16,568 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.jar
+2022-08-04 12:15:16,711 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar
+2022-08-04 12:15:16,933 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar
+2022-08-04 12:15:17,079 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar
+2022-08-04 12:15:17,397 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar
+2022-08-04 12:15:21,275 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.10/plexus-java-0.9.10.pom
+2022-08-04 12:15:21,372 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.10/plexus-java-0.9.10.pom
+2022-08-04 12:15:21,483 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-languages/0.9.10/plexus-languages-0.9.10.pom
+2022-08-04 12:15:21,579 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-languages/0.9.10/plexus-languages-0.9.10.pom
+2022-08-04 12:15:21,721 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.2/asm-6.2.pom
+2022-08-04 12:15:21,813 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.2/asm-6.2.pom
+2022-08-04 12:15:21,946 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/ow2/1.5/ow2-1.5.pom
+2022-08-04 12:15:22,042 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/ow2/1.5/ow2-1.5.pom
+2022-08-04 12:15:22,191 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.pom
+2022-08-04 12:15:22,311 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.pom
+2022-08-04 12:15:22,490 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.4/plexus-compiler-api-2.8.4.pom
+2022-08-04 12:15:22,584 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.4/plexus-compiler-api-2.8.4.pom
+2022-08-04 12:15:22,725 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.8.4/plexus-compiler-2.8.4.pom
+2022-08-04 12:15:22,826 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.8.4/plexus-compiler-2.8.4.pom
+2022-08-04 12:15:23,059 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.4/plexus-compiler-manager-2.8.4.pom
+2022-08-04 12:15:23,153 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.4/plexus-compiler-manager-2.8.4.pom
+2022-08-04 12:15:23,303 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.4/plexus-compiler-javac-2.8.4.pom
+2022-08-04 12:15:23,394 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.4/plexus-compiler-javac-2.8.4.pom
+2022-08-04 12:15:23,490 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.8.4/plexus-compilers-2.8.4.pom
+2022-08-04 12:15:23,579 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.8.4/plexus-compilers-2.8.4.pom
+2022-08-04 12:15:23,826 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.10/plexus-java-0.9.10.jar
+2022-08-04 12:15:23,893 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.2/asm-6.2.jar
+2022-08-04 12:15:23,909 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.4/plexus-compiler-manager-2.8.4.jar
+2022-08-04 12:15:23,929 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.4/plexus-compiler-api-2.8.4.jar
+2022-08-04 12:15:23,989 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.jar
+2022-08-04 12:15:24,092 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-java/0.9.10/plexus-java-0.9.10.jar
+2022-08-04 12:15:24,142 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.8.4/plexus-compiler-manager-2.8.4.jar
+2022-08-04 12:15:24,142 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.8.4/plexus-compiler-api-2.8.4.jar
+2022-08-04 12:15:24,147 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/6.2/asm-6.2.jar
+2022-08-04 12:15:24,210 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.4/plexus-compiler-javac-2.8.4.jar
+2022-08-04 12:15:24,289 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M9/qdox-2.0-M9.jar
+2022-08-04 12:15:24,370 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.8.4/plexus-compiler-javac-2.8.4.jar
+2022-08-04 12:15:25,527 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: XlsApachePOI:XlsApachePOI:0.0.1-SNAPSHOT @ /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/pom.xml.
+2022-08-04 12:15:27,383 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 12:15:27,412 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 12:15:27,421 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 12:15:27,423 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 12:15:28,401 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /XlsApachePOI/src
+2022-08-04 12:15:28,404 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /XlsApachePOI/src/test/java because it overlaps with /XlsApachePOI/src
+2022-08-04 12:15:29,712 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-08-04 12:15:31,960 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: XlsApachePOI:XlsApachePOI:0.0.1-SNAPSHOT @ /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/pom.xml.
+2022-08-04 12:15:33,692 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /XlsApachePOI/src
+2022-08-04 12:15:33,702 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /XlsApachePOI/src/test/java because it overlaps with /XlsApachePOI/src
+2022-08-04 12:15:33,954 [Worker-25: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2022-08-04 12:15:34,746 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 12:15:34,764 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 12:15:34,793 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 12:15:34,794 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 12:16:22,037 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 12:16:22,039 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 12:16:22,044 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 12:16:22,046 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 12:17:05,051 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: XlsApachePOI:XlsApachePOI:0.0.1-SNAPSHOT @ /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/pom.xml.
+2022-08-04 12:17:05,733 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 12:17:05,734 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 12:17:05,750 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 12:17:05,752 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 12:17:06,753 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.3.5/postgresql-42.3.5-sources.jar
+2022-08-04 12:17:07,357 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.3.5/postgresql-42.3.5-sources.jar
+2022-08-04 12:17:07,360 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.postgresql:postgresql:42.3.5
+2022-08-04 12:17:07,799 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0-sources.jar
+2022-08-04 12:17:08,328 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0-sources.jar
+2022-08-04 12:17:08,331 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.checkerframework:checker-qual:3.5.0
+2022-08-04 12:17:08,684 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 12:17:08,686 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 12:17:08,693 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 12:17:08,695 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 12:18:38,230 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 12:18:38,233 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 12:18:38,239 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 12:18:38,240 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 12:21:43,678 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 12:21:43,681 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 12:21:43,686 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 12:21:43,688 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 12:22:35,091 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 12:22:35,093 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 12:22:35,112 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 12:22:35,114 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 12:35:56,654 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 12:35:56,656 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 12:35:56,661 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 12:35:56,663 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 13:50:09,984 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 13:50:09,997 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 13:50:10,005 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 13:50:10,008 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 13:56:38,161 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 13:56:38,165 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 13:56:38,185 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 13:56:38,188 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 13:59:02,795 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 13:59:02,798 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 13:59:02,832 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 13:59:02,839 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 14:00:05,594 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 14:00:05,596 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 14:00:05,606 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 14:00:05,608 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 14:00:13,076 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 14:00:13,079 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 14:00:13,092 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 14:00:13,093 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 14:12:19,037 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 14:12:19,039 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 14:12:19,044 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 14:12:19,046 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 14:15:06,746 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 14:15:06,752 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 14:15:06,757 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 14:15:06,759 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 14:15:41,274 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 14:15:41,279 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 14:15:41,298 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 14:15:41,299 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 14:18:01,403 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 14:18:01,406 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 14:18:01,424 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 14:18:01,426 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 14:40:07,115 [Worker-49: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 14:40:07,117 [Worker-49: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 14:40:07,127 [Worker-49: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 14:40:07,129 [Worker-49: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 17:34:56,186 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-04 17:47:23,259 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-04 17:53:25,025 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 17:53:25,049 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 17:53:25,076 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 17:53:25,078 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 18:04:15,421 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 18:04:15,439 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 18:04:15,469 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 18:04:15,471 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 18:04:54,164 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 18:04:54,165 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 18:04:54,168 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 18:04:54,169 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 18:25:48,716 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 18:25:48,716 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 18:25:48,718 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 18:25:48,719 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 18:53:22,618 [Worker-21: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 18:53:22,621 [Worker-21: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 18:53:22,637 [Worker-21: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 18:53:22,650 [Worker-21: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 18:53:36,409 [Worker-28: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 18:53:36,416 [Worker-28: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 18:53:36,426 [Worker-28: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 18:53:36,435 [Worker-28: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 18:53:51,200 [Worker-26: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 18:53:51,217 [Worker-26: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 18:53:51,232 [Worker-26: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 18:53:51,242 [Worker-26: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 18:54:00,983 [Worker-28: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 18:54:00,985 [Worker-28: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 18:54:01,026 [Worker-28: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 18:54:01,028 [Worker-28: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 18:54:12,673 [Worker-26: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 18:54:12,677 [Worker-26: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 18:54:12,701 [Worker-26: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 18:54:12,711 [Worker-26: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 18:54:30,284 [Worker-21: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 18:54:30,286 [Worker-21: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 18:54:30,305 [Worker-21: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 18:54:30,310 [Worker-21: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 18:54:41,168 [Worker-28: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 18:54:41,182 [Worker-28: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 18:54:41,187 [Worker-28: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 18:54:41,189 [Worker-28: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 18:54:53,155 [Worker-21: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 18:54:53,158 [Worker-21: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 18:54:53,163 [Worker-21: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 18:54:53,175 [Worker-21: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 20:00:12,709 [Worker-26: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:00:12,711 [Worker-26: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 20:00:12,725 [Worker-26: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:00:12,729 [Worker-26: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 20:00:35,932 [Worker-31: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:00:35,935 [Worker-31: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 20:00:35,961 [Worker-31: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:00:35,975 [Worker-31: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 20:03:35,589 [Worker-31: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:03:35,591 [Worker-31: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 20:03:35,603 [Worker-31: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:03:35,605 [Worker-31: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 20:09:56,419 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:09:56,422 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 20:09:56,433 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:09:56,434 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 20:20:02,431 [Worker-39: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:20:02,433 [Worker-39: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 20:20:02,438 [Worker-39: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:20:02,440 [Worker-39: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 20:20:35,820 [Worker-39: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:20:35,822 [Worker-39: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 20:20:35,827 [Worker-39: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:20:35,829 [Worker-39: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 20:21:05,442 [Worker-39: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:21:05,444 [Worker-39: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 20:21:05,453 [Worker-39: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:21:05,455 [Worker-39: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 20:21:25,386 [Worker-40: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:21:25,388 [Worker-40: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 20:21:25,410 [Worker-40: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:21:25,411 [Worker-40: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 20:21:43,257 [Worker-42: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:21:43,267 [Worker-42: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 20:21:43,277 [Worker-42: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:21:43,280 [Worker-42: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 20:22:11,366 [Worker-40: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:22:11,368 [Worker-40: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 20:22:11,381 [Worker-40: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:22:11,383 [Worker-40: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 20:22:25,442 [Worker-41: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:22:25,443 [Worker-41: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 20:22:25,448 [Worker-41: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:22:25,450 [Worker-41: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 20:22:35,793 [Worker-35: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:22:35,795 [Worker-35: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 20:22:35,800 [Worker-35: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:22:35,801 [Worker-35: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 20:22:51,481 [Worker-39: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:22:51,487 [Worker-39: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 20:22:51,492 [Worker-39: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:22:51,498 [Worker-39: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 20:23:06,310 [Worker-35: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:23:06,312 [Worker-35: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 20:23:06,326 [Worker-35: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:23:06,334 [Worker-35: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 20:23:22,044 [Worker-40: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:23:22,046 [Worker-40: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 20:23:22,051 [Worker-40: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:23:22,054 [Worker-40: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 20:23:31,824 [Worker-42: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:23:31,826 [Worker-42: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 20:23:31,831 [Worker-42: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:23:31,832 [Worker-42: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 20:23:44,629 [Worker-38: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:23:44,631 [Worker-38: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 20:23:44,647 [Worker-38: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:23:44,649 [Worker-38: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 20:23:54,331 [Worker-39: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:23:54,333 [Worker-39: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 20:23:54,348 [Worker-39: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:23:54,356 [Worker-39: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 20:24:06,194 [Worker-40: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:24:06,197 [Worker-40: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 20:24:06,201 [Worker-40: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 20:24:06,203 [Worker-40: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 21:09:40,127 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 21:09:40,130 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 21:09:40,135 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 21:09:40,138 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 21:11:28,826 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 21:11:28,827 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 21:11:28,831 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 21:11:28,833 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 21:14:57,183 [Worker-46: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 21:14:57,190 [Worker-46: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 21:14:57,215 [Worker-46: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 21:14:57,223 [Worker-46: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 21:19:04,937 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 21:19:04,938 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 21:19:04,939 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 21:19:04,940 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 21:30:55,424 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 21:30:55,425 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 21:30:55,427 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 21:30:55,428 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 21:37:45,071 [Worker-61: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 21:37:45,072 [Worker-61: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 21:37:45,074 [Worker-61: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 21:37:45,075 [Worker-61: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 21:43:51,653 [Worker-62: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 21:43:51,655 [Worker-62: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 21:43:51,660 [Worker-62: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 21:43:51,662 [Worker-62: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 21:48:34,763 [Worker-65: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 21:48:34,765 [Worker-65: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 21:48:34,918 [Worker-65: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 21:48:34,920 [Worker-65: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 22:42:31,646 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 22:42:31,648 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 22:42:31,672 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 22:42:31,684 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 22:44:53,899 [Worker-76: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 22:44:53,906 [Worker-76: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 22:44:53,912 [Worker-76: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 22:44:53,925 [Worker-76: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 22:48:47,564 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 22:48:47,566 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 22:48:47,571 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 22:48:47,572 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 22:51:06,878 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 22:51:06,880 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 22:51:06,908 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 22:51:06,914 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 22:52:08,339 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 22:52:08,341 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 22:52:08,344 [Worker-80: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 22:52:08,346 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 22:52:42,376 [Worker-83: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 22:52:42,378 [Worker-83: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 22:52:42,381 [Worker-83: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 22:52:42,382 [Worker-83: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 22:53:04,571 [Worker-80: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 22:53:04,573 [Worker-80: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 22:53:04,578 [Worker-80: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 22:53:04,580 [Worker-80: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 23:03:52,620 [Worker-82: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 23:03:52,622 [Worker-82: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 23:03:52,634 [Worker-82: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 23:03:52,637 [Worker-82: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-04 23:10:08,948 [Worker-88: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 23:10:08,949 [Worker-88: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-04 23:10:08,951 [Worker-88: Launching Main (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-04 23:10:08,952 [Worker-88: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-09 13:35:01,720 [Worker-10: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-08-09 13:37:54,347 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.4/maven-archetype-quickstart-1.4.jar
+2022-08-09 13:37:54,538 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.4/maven-archetype-quickstart-1.4.jar
+2022-08-09 13:37:54,653 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.4/maven-archetype-quickstart-1.4.pom
+2022-08-09 13:37:54,758 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.4/maven-archetype-quickstart-1.4.pom
+2022-08-09 13:38:52,117 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/fesoalll/eclipse-workspace/jobtest/pom.xml
+2022-08-09 13:38:59,952 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com:jobtest:0.0.1-SNAPSHOT @ /home/fesoalll/eclipse-workspace/jobtest/pom.xml.
+2022-08-09 13:39:03,162 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jobtest/src/main/java
+2022-08-09 13:39:03,226 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jobtest/src/test/java
+2022-08-09 13:39:03,901 [Worker-3: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2022-08-09 13:39:06,536 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:39:06,548 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobtest/src/main/resources
+2022-08-09 13:39:06,591 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:39:06,592 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobtest/src/test/resources
+2022-08-09 13:40:03,396 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:40:03,397 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobtest/src/main/resources
+2022-08-09 13:40:03,416 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:40:03,416 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobtest/src/test/resources
+2022-08-09 13:40:24,188 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:40:24,188 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobtest/src/main/resources
+2022-08-09 13:40:24,202 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:40:24,203 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobtest/src/test/resources
+2022-08-09 13:41:54,363 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-09 13:41:54,366 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/main/resources
+2022-08-09 13:41:54,375 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-08-09 13:41:54,377 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/Documentos/0.java/JAVADEV/aulas/XlsApachePOI/src/test/resources
+2022-08-09 13:41:54,493 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:41:54,493 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobtest/src/main/resources
+2022-08-09 13:41:54,500 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:41:54,501 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobtest/src/test/resources
+2022-08-09 13:42:00,335 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:42:00,336 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobtest/src/main/resources
+2022-08-09 13:42:00,342 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:42:00,343 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobtest/src/test/resources
+2022-08-09 13:42:08,484 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:42:08,485 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobtest/src/main/resources
+2022-08-09 13:42:08,492 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:42:08,493 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobtest/src/test/resources
+2022-08-09 13:48:31,794 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:48:31,795 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobtest/src/main/resources
+2022-08-09 13:48:31,817 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:48:31,817 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobtest/src/test/resources
+2022-08-09 13:49:02,509 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:49:02,510 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobtest/src/main/resources
+2022-08-09 13:49:02,537 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:49:02,538 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobtest/src/test/resources
+2022-08-09 13:51:10,009 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:51:10,010 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobtest/src/main/resources
+2022-08-09 13:51:10,017 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:51:10,017 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobtest/src/test/resources
+2022-08-09 13:52:58,053 [Worker-24: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/fesoalll/eclipse-workspace/jobTest2/pom.xml
+2022-08-09 13:52:58,565 [Worker-24: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com:jobTest2:0.0.1-SNAPSHOT @ /home/fesoalll/eclipse-workspace/jobTest2/pom.xml.
+2022-08-09 13:52:58,955 [Worker-24: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jobTest2/src/main/java
+2022-08-09 13:52:58,963 [Worker-24: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jobTest2/src/test/java
+2022-08-09 13:52:59,173 [Worker-24: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2022-08-09 13:53:00,028 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:53:00,029 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/main/resources
+2022-08-09 13:53:00,042 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:53:00,048 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/test/resources
+2022-08-09 13:53:37,977 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:53:37,988 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/main/resources
+2022-08-09 13:53:38,012 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:53:38,013 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/test/resources
+2022-08-09 13:53:48,470 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:53:48,471 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/main/resources
+2022-08-09 13:53:48,478 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 13:53:48,479 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/test/resources
+2022-08-09 14:26:27,919 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:26:27,939 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/main/resources
+2022-08-09 14:26:27,946 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:26:27,947 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/test/resources
+2022-08-09 14:28:29,315 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:28:29,316 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/main/resources
+2022-08-09 14:28:29,326 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:28:29,326 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/test/resources
+2022-08-09 14:29:10,314 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:29:10,314 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/main/resources
+2022-08-09 14:29:10,320 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:29:10,320 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/test/resources
+2022-08-09 14:29:36,194 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:29:36,195 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/main/resources
+2022-08-09 14:29:36,205 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:29:36,206 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/test/resources
+2022-08-09 14:31:52,684 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:31:52,685 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/main/resources
+2022-08-09 14:31:52,690 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:31:52,691 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/test/resources
+2022-08-09 14:36:51,324 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:36:51,326 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/main/resources
+2022-08-09 14:36:51,332 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:36:51,332 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/test/resources
+2022-08-09 14:37:54,001 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:37:54,001 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/main/resources
+2022-08-09 14:37:54,012 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:37:54,012 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/test/resources
+2022-08-09 14:38:34,527 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:38:34,536 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/main/resources
+2022-08-09 14:38:34,543 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:38:34,552 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/test/resources
+2022-08-09 14:42:34,896 [Worker-38: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/fesoalll/eclipse-workspace/jobTest3/pom.xml
+2022-08-09 14:42:35,436 [Worker-38: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com:jobTest3:0.0.1-SNAPSHOT @ /home/fesoalll/eclipse-workspace/jobTest3/pom.xml.
+2022-08-09 14:42:36,088 [Worker-38: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jobTest3/src/main/java
+2022-08-09 14:42:36,094 [Worker-38: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jobTest3/src/test/java
+2022-08-09 14:42:36,269 [Worker-38: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2022-08-09 14:42:37,019 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:42:37,020 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 14:42:37,036 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:42:37,036 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 14:45:39,376 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:45:39,376 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/main/resources
+2022-08-09 14:45:39,381 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:45:39,381 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/test/resources
+2022-08-09 14:47:38,378 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:47:38,379 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/main/resources
+2022-08-09 14:47:38,384 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:47:38,384 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/test/resources
+2022-08-09 14:48:40,321 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:48:40,322 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/main/resources
+2022-08-09 14:48:40,328 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:48:40,329 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/test/resources
+2022-08-09 14:52:42,050 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:52:42,051 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/main/resources
+2022-08-09 14:52:42,056 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:52:42,056 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/test/resources
+2022-08-09 14:53:55,360 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:53:55,361 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/main/resources
+2022-08-09 14:53:55,366 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:53:55,366 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest2/src/test/resources
+2022-08-09 14:54:22,297 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:54:22,298 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 14:54:22,303 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:54:22,304 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 14:54:32,571 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:54:32,572 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 14:54:32,577 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 14:54:32,578 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 15:04:26,966 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:04:26,967 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 15:04:26,972 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:04:26,972 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 15:04:44,061 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:04:44,061 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 15:04:44,066 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:04:44,066 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 15:07:29,512 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:07:29,512 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 15:07:29,519 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:07:29,519 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 15:10:31,299 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:10:31,300 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 15:10:31,308 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:10:31,309 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 15:11:28,972 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:11:28,972 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 15:11:28,979 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:11:28,980 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 15:15:02,124 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:15:02,124 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 15:15:02,130 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:15:02,131 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 15:15:52,000 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:15:52,003 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 15:15:52,009 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:15:52,010 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 15:30:12,143 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:30:12,143 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 15:30:12,148 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:30:12,149 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 15:30:54,509 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:30:54,509 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 15:30:54,514 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:30:54,515 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 15:32:38,304 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:32:38,305 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 15:32:38,319 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:32:38,319 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 15:36:30,442 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:36:30,443 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 15:36:30,450 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:36:30,451 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 15:37:24,498 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:37:24,499 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 15:37:24,503 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:37:24,504 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 15:39:27,611 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:39:27,612 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 15:39:27,616 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:39:27,617 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 15:40:03,009 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:40:03,009 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 15:40:03,015 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:40:03,015 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 15:41:52,830 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:41:52,830 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 15:41:52,834 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:41:52,835 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 15:44:13,181 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:44:13,182 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 15:44:13,186 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:44:13,186 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 15:45:44,849 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:45:44,850 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 15:45:44,864 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:45:44,864 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 15:50:28,994 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:50:28,995 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 15:50:29,005 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:50:29,006 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 15:51:35,345 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:51:35,346 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 15:51:35,353 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:51:35,353 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 15:52:49,452 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:52:49,453 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 15:52:49,458 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 15:52:49,459 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 16:04:05,036 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 16:04:05,036 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/main/resources
+2022-08-09 16:04:05,041 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 16:04:05,102 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest3/src/test/resources
+2022-08-09 16:07:33,192 [Worker-74: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/fesoalll/eclipse-workspace/jobTest4/pom.xml
+2022-08-09 16:07:33,571 [Worker-74: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com:jobTest4:0.0.1-SNAPSHOT @ /home/fesoalll/eclipse-workspace/jobTest4/pom.xml.
+2022-08-09 16:07:34,034 [Worker-74: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jobTest4/src/main/java
+2022-08-09 16:07:34,039 [Worker-74: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jobTest4/src/test/java
+2022-08-09 16:07:34,121 [Worker-74: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-08-09 16:07:34,594 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 16:07:34,595 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest4/src/main/resources
+2022-08-09 16:07:34,601 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 16:07:34,601 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest4/src/test/resources
+2022-08-09 17:39:33,038 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 17:39:33,039 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest4/src/main/resources
+2022-08-09 17:39:33,047 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 17:39:33,048 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest4/src/test/resources
+2022-08-09 17:49:20,468 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 17:49:20,469 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest4/src/main/resources
+2022-08-09 17:49:20,474 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 17:49:20,475 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest4/src/test/resources
+2022-08-10 00:19:05,878 [Worker-88: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (3) references non-existing project jobTest4.
+org.eclipse.core.runtime.CoreException: Launch configuration App (3) references non-existing project jobTest4.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:62) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:48) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.100.v20220315-2327.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:523) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:411) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:401) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:134) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:806) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:972) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:148) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:83) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.0.v20220512-1935.jar:na]
+2022-08-10 00:19:05,997 [Worker-88: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (3) references non-existing project jobTest4.
+org.eclipse.core.runtime.CoreException: Launch configuration App (3) references non-existing project jobTest4.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:62) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:48) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.100.v20220315-2327.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:523) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:411) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:402) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:134) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:806) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:972) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:148) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:83) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.0.v20220512-1935.jar:na]
+2022-08-10 00:19:06,069 [Worker-88: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (3) references non-existing project jobTest4.
+org.eclipse.core.runtime.CoreException: Launch configuration App (3) references non-existing project jobTest4.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:62) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:48) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.16.100.v20220315-2327.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2128) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:376) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:403) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:134) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:806) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:972) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:148) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:83) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.13.0.v20220512-1935.jar:na]
+2022-08-10 00:20:06,444 [Worker-89: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/fesoalll/eclipse-workspace/jobTest5/pom.xml
+2022-08-10 00:20:07,410 [Worker-89: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com:jobTest5:0.0.1-SNAPSHOT @ /home/fesoalll/eclipse-workspace/jobTest5/pom.xml.
+2022-08-10 00:20:07,949 [Worker-89: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jobTest5/src/main/java
+2022-08-10 00:20:07,994 [Worker-89: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jobTest5/src/test/java
+2022-08-10 00:20:08,371 [Worker-89: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2022-08-10 00:20:08,736 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 00:20:08,737 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest5/src/main/resources
+2022-08-10 00:20:08,741 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 00:20:08,741 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest5/src/test/resources
+2022-08-10 00:23:00,979 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 00:23:00,980 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest5/src/main/resources
+2022-08-10 00:23:00,984 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 00:23:00,984 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest5/src/test/resources
+2022-08-10 00:23:15,432 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 00:23:15,432 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest5/src/main/resources
+2022-08-10 00:23:15,436 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 00:23:15,437 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest5/src/test/resources
+2022-08-10 00:32:30,582 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 00:32:30,583 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest5/src/main/resources
+2022-08-10 00:32:30,587 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 00:32:30,587 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest5/src/test/resources
+2022-08-10 00:35:16,778 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 00:35:16,779 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest5/src/main/resources
+2022-08-10 00:35:16,788 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 00:35:16,796 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest5/src/test/resources
+2022-08-10 00:38:12,889 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 00:38:12,889 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest5/src/main/resources
+2022-08-10 00:38:12,894 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 00:38:12,895 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest5/src/test/resources
+2022-08-10 00:39:44,201 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 00:39:44,202 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest5/src/main/resources
+2022-08-10 00:39:44,212 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 00:39:44,213 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest5/src/test/resources
+2022-08-10 00:53:28,090 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 00:53:28,091 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest5/src/main/resources
+2022-08-10 00:53:28,100 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-10 00:53:28,100 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/fesoalll/eclipse-workspace/jobTest5/src/test/resources
